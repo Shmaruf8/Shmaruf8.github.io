@@ -485,7 +485,7 @@ html,body, *{
 	padding: 10px 150px;
 }
 /* media query start */
-@media only screen and (max-width: 475px) {
+@media only screen and (max-width: 415px) {
 	.headerr {
 		padding: 0px 10px 28px 0px;
 	}
